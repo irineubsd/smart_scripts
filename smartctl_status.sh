@@ -1,8 +1,4 @@
 #!/bin/bash
-
-# smartctl_status.sh
-# Autor:Manuel Irineu.
-# Versão: 1.0
 # Descrição:Executa o smartctl -a nos discos do zvol01 e salva a saída em arquivos de texto com a última letra do disco.
 # Considerações:Faz a leitura dos logs do smart. Ajustar conforme necessidade.
 

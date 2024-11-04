@@ -1,8 +1,4 @@
 #!/bin/bash
-
-# error_count.sh 
-# Autor: Manuel Irineu.
-# Versão:1.0
 # Descrição:Faz a leitura dos logs e mostra os discos com erros.
 # Considerações:Ajuste a PATH da pasta onde contém os logs do smartctl.
 

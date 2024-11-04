@@ -1,8 +1,4 @@
 #!/bin/bash
-
-# smartctl_teste.sh 
-# Autor:Manuel Irineu.
-# Versão:1.0
 # Descrição:Executa o smartctl -t long nos discos do zvol01.
 # Considerações:Faz o teste do disco sdb até sdy. Ajustar conforme necessidade do ZBoox.
 
